@@ -1,15 +1,15 @@
 # -Employee-Layoff-Prediction-using-RNN-LSTM-GRU
 This project predicts **employee attrition (layoff likelihood)** using deep learning models — **RNN, LSTM, and GRU**.   The dataset contains employee information such as performance, tenure, salary, and satisfaction level.   The models learn temporal patterns and HR trends to predict the probability of an employee leaving the company.
-# 🧠 Employee Layoff Prediction using RNN, LSTM & GRU
+# Employee Layoff Prediction using RNN, LSTM & GRU
 
-### 📘 Overview
+###  Overview
 This project predicts **employee attrition (layoff likelihood)** using deep learning models — **RNN, LSTM, and GRU**.  
 The dataset contains employee information such as performance, tenure, salary, and satisfaction level.  
 The models learn temporal patterns and HR trends to predict the probability of an employee leaving the company.
 
 ---
 
-### 🧩 Features
+###  Features
 - Compare 3 Deep Learning architectures:
   - 🔹 Simple Recurrent Neural Network (RNN)
   - 🔹 Long Short-Term Memory (LSTM)
@@ -21,14 +21,14 @@ The models learn temporal patterns and HR trends to predict the probability of a
 
 ---
 
-### 🗃 Dataset
+###  Dataset
 - **Source:** IBM HR Analytics Employee Attrition Dataset  
 - **File:** `WA_Fn-UseC_-HR-Employee-Attrition.csv`  
 - **Target column:** `Attrition` (Yes = 1, No = 0)
 
 ---
 
-### 🧠 Technologies Used
+###  Technologies Used
 | Category | Tools / Libraries |
 |-----------|------------------|
 | **Software Type** | Web / ML Application |
@@ -40,7 +40,7 @@ The models learn temporal patterns and HR trends to predict the probability of a
 
 ---
 
-### ⚙️ Installation
+###  Installation
 
 1. Clone the repository:
    ```bash
